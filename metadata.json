@@ -1,0 +1,6 @@
+{
+  "name": "HabitFlow - Personal Habit Tracker",
+  "description": "Modern personal habit tracker and productivity dashboard to build consistent habits, track daily activities, and monitor personal development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
